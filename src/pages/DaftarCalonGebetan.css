@@ -1,0 +1,55 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nama {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.desc {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+ion-list{
+    background: rgba(255,255,255,0)!important;
+}
+
+ion-card-content{
+    padding-right: 2px !important;
+    
+}
+
+ion-img{
+    width: 75px!important;
+    height: 75px!important;
+}
+
+.input-wrapper{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+ion-button{
+    margin-left: 2px;
+}
+
+
+.background-image{
+    position:absolute;
+    object-fit: fill;
+    bottom: 0px!important;
+    left: 0px !important;
+    z-index: -1;
+}
+
+.profile-wallpaper{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.my-custom-class{
+    --backdrop-opacity: 0.05;
+    
+}
